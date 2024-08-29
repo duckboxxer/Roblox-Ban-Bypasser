@@ -44,11 +44,10 @@ echo.
 echo.
 echo.
 echo.
-echo [40;37m[[40;33m+[40;37m] [40;33mWarning: [40;37mPlease logout of your roblox account before we started.
+echo [40;37m[[40;33m+[40;37m] [40;33mWarning before continue:
 echo.
-echo.
-echo.
-echo.
+echo [40;37m[[40;33m1[40;37m] [40;37mLogout of your roblox account.
+echo [40;37m[[40;33m2[40;37m] [40;37mClear your browser cookies.
 echo.
 echo.
 echo.
